@@ -283,14 +283,6 @@ If allocation fails, all allocated elements are properly freed.
 * Linux manual pages (`man memset`, `man malloc`, etc.)
 * 42 subject documentation
 
-### Use of AI
-
-AI tools were used to:
-
-* Clarify the expected behavior of standard C functions
-* Identify edge cases and undefined behavior
-* Improve the precision and structure of documentation
-* To test all of the functions in a main.c
 
 ## Usage Example
 
